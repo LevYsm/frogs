@@ -1,0 +1,104 @@
+body
+{
+
+background-color: #567D57;
+opacity: 1;
+background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #567D57 22px ), repeating-linear-gradient( #d6e68455, #d6e684 );
+background-repeat: no-repeat;
+
+}
+.all
+{
+margin: auto;
+margin-top: 50px ;
+display: block;
+
+
+}
+
+.displey
+{
+
+display:flex;
+
+
+}
+
+.img
+{
+ 
+border: #7DA279 solid;
+background-color: #7DA279;
+border-radius: 71px;
+padding: 50px 50px 50px 50px ;
+
+
+}
+
+img
+{
+border-radius: 71px ;
+display: block;
+float: right;    
+margin-bottom: 10px ;
+margin: auto;
+
+}
+
+.about_frogs
+{
+    width: 5000px;
+    border: #7DA279 solid;
+    background-color: #7DA279;
+    border-radius: 71px ;
+    text-align: center;
+   margin:0px 0px 0px 20px ;
+    
+}
+.img2
+{
+margin:0px 20px 0px 0px;
+
+}
+
+.too_about_frogs
+{
+    
+   
+    border: #567D57 solid;
+    background-color: #567D57;
+    border-radius: 71px ;
+    text-align: center;
+    margin-top: 20px ;
+   
+}
+
+.about_us
+{
+height: 50%;
+border: #355F39 solid;
+background-color: #355F39;
+border-radius: 71px ;
+text-align: center;
+margin-top: 20px ;
+}
+
+.about_poturon
+{
+    display: block;
+    border: #869387 solid;
+    background-color: #869387;
+    border-radius: 71px ;
+    text-align: center;
+    margin-top: 20px ;
+    float: left;
+    margin: auto;
+    padding: 20px 20px 20px 20px ;
+}
+
+a
+{
+text-decoration: none;
+color: rgb(144, 144, 144);
+
+}
